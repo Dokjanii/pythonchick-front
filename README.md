@@ -1,26 +1,23 @@
-Intoduction
+**Intoduction**
 
 🐣 PythonChick Frontend PythonChick is an educational platform designed to introduce children to the fundamentals of programming in a fun and interactive way. This repository contains the frontend application, built with modern web technologies to provide an engaging user experience.
 
-Features
+**Features**
+* Interactive and child-friendly user interface
+* Structured lessons and exercises for beginners
+* Responsive design compatible with various devices
+* Integration-ready with backend services
+* Problem Statement Many young learners face challenges in accessing engaging and age-appropriate resources to learn programming.
 
-Interactive and child-friendly user interface
-Structured lessons and exercises for beginners
-Responsive design compatible with various devices
-Integration-ready with backend services
-Problem Statement Many young learners face challenges in accessing engaging and age-appropriate resources to learn programming.
+**Objectives** 
 
-Objectives Provide a beginner-friendly platform to teach Python programming to kids, starting with basic concepts and gradually advancing.
+Provide a beginner-friendly platform to teach Python programming to kids, starting with basic concepts and gradually advancing.
 
-Technology Stack
-
-Frontend: ReactJS, Java Script, HTML, CSS
-
-Backend: Python
-
-Database: Railway, MySQL
-
-Design:Figma, Adobe
+**Technology Stack**
+* Frontend: ReactJS, Java Script, HTML, CSS
+* Backend: Python
+* Database: Railway, MySQL
+* Design:Figma, Adobe
 
 React – JavaScript library for building user interfaces
 
