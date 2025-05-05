@@ -1,4 +1,5 @@
 **Intoduction**
+
 **🐣 PythonChick Frontend**
 PythonChick is an educational platform designed to introduce children to the fundamentals of programming in a fun and interactive way. This repository contains the frontend application, built with modern web technologies to provide an engaging user experience.
 
@@ -20,9 +21,9 @@ Provide a beginner-friendly platform to teach Python programming to kids, starti
 * Database: Railway, MuSQL
 * Design:Figma, Adobe
 
-**React** – JavaScript library for building user interfaces
-**Tailwind CSS** – Utility-first CSS framework for rapid UI development
-**PostCSS** – Tool for transforming CSS with JavaScript plugins
+* **React** – JavaScript library for building user interfaces
+* **Tailwind CSS** – Utility-first CSS framework for rapid UI development
+* **PostCSS** – Tool for transforming CSS with JavaScript plugins
 
 **Installation Instructions**
 1. Clone the repository: git clone https://github.com/cappucinoWeee/pythonchick-front.git
@@ -51,18 +52,22 @@ mock.json: A file containing mock data for testing and development purposes. Ret
 
 
 **References**
+
 **Frameworks & Libraries**：
-React: We use React, a JavaScript library for building user interfaces.  Retrieved from https://reactjs.org/ 
-Tailwind CSS: Tailwind CSS is employed for styling, allowing for rapid UI development with utility-first classes. Retrieved from https://tailwindcss.com/docs
-PostCSS: PostCSS is used for transforming CSS with JavaScript plugins. Retrieved from https://postcss.org/ 
+* React: We use React, a JavaScript library for building user interfaces.  Retrieved from https://reactjs.org/ 
+* Tailwind CSS: Tailwind CSS is employed for styling, allowing for rapid UI development with utility-first classes. Retrieved from https://tailwindcss.com/docs
+* PostCSS: PostCSS is used for transforming CSS with JavaScript plugins. Retrieved from https://postcss.org/ 
+
 **Design & Prototyping Tools**
-Figma: We used it for interface design and prototyping. And overall full our website design [Figma](https://www.figma.com)
-Pixilart: We used for creating pixel art and game sprites. Our game is not ready yet Piskel+2Pixilart+2Pixilart+2
-Adobe Creative Cloud: We used this tool for photo editing, video editing, and design, aiding in the creation of professional-grade visual content. 
+* Figma: We used it for interface design and prototyping. And overall full our website design [Figma](https://www.figma.com)
+* Pixilart: We used for creating pixel art and game sprites. Our game is not ready yet Piskel+2Pixilart+2Pixilart+2
+* Adobe Creative Cloud: We used this tool for photo editing, video editing, and design, aiding in the creation of professional-grade visual content. 
+
 **Learning Resources(for Content)**
-W3Schools: We used it as a reference for python learning tutorials. W3Schools offers well-organized and easy-to-understand tutorials, which were instrumental in guiding development practices. [W3Schools.com](https://www.w3schools.com/tutorials) 
+* W3Schools: We used it as a reference for python learning tutorials. W3Schools offers well-organized and easy-to-understand tutorials, which were instrumental in guiding development practices. [W3Schools.com](https://www.w3schools.com/tutorials) 
+
 **Documentation & Guidelines**
-README.md: The main documentation file providing an overview of the project. Retrieved from https://github.com/cappucinoWeee/pythonchick-front/blob/main/README.md 
+* README.md: The main documentation file providing an overview of the project. Retrieved from https://github.com/cappucinoWeee/pythonchick-front/blob/main/README.md 
 
 
 **Team Members**
